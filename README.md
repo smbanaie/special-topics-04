@@ -1,8 +1,6 @@
 ### Special Topics 
 In this course, we will work with some **new technology** such as *gRPC*/*AI Coding*/ 
 
-> AI coding Helps us to ... 
-
 #### Quick Start (gRPC + AI coding)
 
 Prerequisites
